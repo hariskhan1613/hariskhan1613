@@ -1,0 +1,895 @@
+Personal Information-
+
+Full Name: Mohd Haris Khan
+
+GitHub Username: hariskhan1613
+
+Location: Noida, Uttar Pradesh, India
+
+Email: your_email@gmail.com
+
+LinkedIn: https://linkedin.com/in/your-linkedin-username
+
+Portfolio: https://your-portfolio.com (if available)
+
+Website: (optional)
+
+Current Status:
+Software Developer | Java Developer | Full Stack Developer | Machine Learning Enthusiast
+
+Professional Headline:
+Passionate Software Developer with strong interest in Java, Full Stack Development, artificial intelligence & Machine Learning, and Backend Systems. I enjoy building scalable applications, solving real-world problems, and continuously learning modern technologies.
+
+
+ABOUT ME-
+
+I am a Computer Science graduate passionate about software development and problem-solving.
+
+I enjoy building real-world applications using Java, Spring Boot, React, and Machine Learning technologies.
+
+My primary interests include:
+
+• Backend Development
+• Full Stack Web Development
+• Artificial Intelligence & Machine Learning
+• Data Structures & Algorithms
+• Computer Networks
+• System Design
+
+Currently, I am focused on improving my problem-solving skills, building impactful projects, and preparing for Software Development Engineer (SDE) roles.
+
+I believe in continuous learning and writing clean, maintainable, and efficient code.
+
+EDUCATION-
+Degree:
+Bachelor of Technology (B.Tech)
+
+Branch:
+Computer Science and Engineering
+
+College:
+Noida Institute of Engineering and Technology (NIET)
+
+Location:
+Greater Noida, Uttar Pradesh
+
+Graduation Year:
+2026
+
+Relevant Coursework:
+
+• Data Structures & Algorithms
+• Operating Systems
+• Computer Networks
+• Database Management Systems
+• Object-Oriented Programming
+• Software Engineering
+• Machine Learning
+
+TECH STACK-
+
+Programming Languages-
+Java
+Python
+JavaScript
+C++
+SQL
+
+Frontend-
+HTML5
+CSS3
+JavaScript
+React.js
+Tailwind CSS
+Bootstrap
+
+BACKEND-
+Java
+Spring Boot
+Node.js
+Express.js
+REST APIs
+JWT Authentication
+
+DATABASES-
+MongoDB
+MYSQL
+
+MACHINE LEARNING-
+Python
+Pandas
+NumPy
+Scikit-Learn
+Matplotlib
+Seaborn
+
+Developer Tools-
+Git
+
+GitHub
+
+VS Code
+
+IntelliJ IDEA
+
+Postman
+
+Docker
+
+Maven
+
+🚀 Featured Projects
+1. Deep Packet Inspection (Java)
+Description:
+
+Developed a Java-based Deep Packet Inspection (DPI) application capable of capturing and analyzing network packets in real time.
+
+Features:
+
+• Real-time packet capture
+• TCP/UDP/ICMP protocol detection
+• HTTP and DNS packet analysis
+• Packet filtering
+• PCAP file analysis
+• Network traffic monitoring
+• Protocol statistics
+• Header parsing
+
+Technologies:
+
+Java
+Pcap4J
+Maven
+Wireshark
+
+Skills Demonstrated:
+
+Computer Networks
+Java
+Packet Parsing
+Network Security
+Performance Optimization
+
+2. Customer Churn Prediction
+Description:
+
+Built a Machine Learning model to predict customer churn using supervised learning algorithms.
+
+Features:
+
+• Data Cleaning
+• Feature Engineering
+• Model Training
+• Model Evaluation
+• Prediction Dashboard
+• Performance Metrics
+
+Technologies:
+
+Python
+Pandas
+NumPy
+Scikit-Learn
+Matplotlib
+Seaborn
+
+Skills:
+
+Machine Learning
+Data Analysis
+Feature Engineering
+Model Evaluation
+
+
+
+
+Portfolio Website
+
+Description:
+
+Personal portfolio website showcasing projects, technical skills, education, certifications, and contact information.
+
+Technologies:
+
+HTML
+CSS
+JavaScript
+React
+
+
+
+Certifications
+• Introduction to Python
+• Python for Data Science, AI and Development
+• Java Programming: Arrays, Lists, and Structured Data
+• Introduction to Artificial Intelligence (AI)
+
+
+🌱 Currently Learning-
+Spring Boot
+
+Microservices
+
+Node.js
+
+System Design
+
+Machine Learning
+
+Docker
+
+Kubernetes
+
+AWS Cloud
+
+Advanced DSA
+
+
+
+🎯 Career Objectives-
+Seeking Software Development Engineer opportunities where I can contribute to building scalable software, solve challenging problems, and continue growing as a Full Stack and Backend Developer.
+
+yaha pe kya karna hai sahi se show nahi ho raha-
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hariskhan1613&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hariskhan1613&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariskhan1613&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=hariskhan1613&theme=tokyonight&row=1&column=7"/>
+</p>
+Stopped thinking
+
+Screenshot dekh kar lag raha hai ki 3 images load nahi ho rahi hain:
+
+❌ Top Languages
+❌ GitHub Trophies
+❌ GitHub Streak (kabhi-kabhi Heroku URL ki wajah se issue aata hai)
+
+Ye problem tumhare code ki nahi hai, balki in services ke URLs ya GitHub caching ki wajah se hoti hai.
+
+✅ Use these updated URLs
+GitHub Stats
+# 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hariskhan1613&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" />
+  
+  <img height="170" src="https://streak-stats.demolab.com?user=hariskhan1613&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariskhan1613&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+Notice:
+
+✅ streak-stats.demolab.com use karo.
+❌ github-readme-streak-stats.herokuapp.com purana hai.
+GitHub Trophies
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=hariskhan1613&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
+Agar phir bhi image nahi aaye
+
+Browser me ye URLs open karke check karo:
+
+Stats
+
+https://github-readme-stats.vercel.app/api?username=hariskhan1613
+
+Languages
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=hariskhan1613
+
+Streak
+
+https://streak-stats.demolab.com?user=hariskhan1613
+
+Trophy
+
+https://github-profile-trophy.vercel.app/?username=hariskhan1613
+
+Agar browser me bhi image nahi aa rahi, to service temporary down ho sakti hai.
+
+Ek aur cheez
+
+Tumhare account me abhi sirf 71 contributions hain aur repositories bhi kam hain. Kabhi-kabhi Top Languages tab tak render nahi hota jab tak public repositories me enough code na ho.
+
+Check karo:
+
+Repositories Public hain?
+Unme code hai ya sirf README?
+Default branch main hai?
+GitHub indexing ko 10–30 minutes de diye?
+⭐ Main recommendation
+
+Main tumhare liye 2026 ka premium GitHub profile README bana sakta hoon jisme:
+
+✨ Animated Header Banner
+🐍 Snake Contribution Animation
+📊 GitHub Stats (working)
+💻 Tech Stack Cards
+🚀 Featured Projects (Customer Churn, Deep Packet Inspection, Birthday Website, Portfolio)
+🏆 Certifications
+📈 Coding Activity
+🌌 Modern dark UI
+💼 Recruiter-friendly professional layout
+
+Ye top GitHub profiles jaisa clean aur modern lagega, flashy nahi.
+
+haan bana do
+
+Perfect! Since your goal is to impress recruiters for Java/Full Stack/ML roles, I'd make the profile look professional + modern, not overly flashy.
+
+Folder Structure
+
+Create a repository named exactly:
+
+hariskhan1613
+
+Inside it:
+
+hariskhan1613
+│
+├── README.md
+├── assets
+│   ├── banner.gif
+│   └── coding.gif
+README.md
+<h1 align="center">
+Hi 👋, I'm Mohd Haris Khan
+</h1>
+
+<h3 align="center">
+Software Developer • Java • Full Stack • Machine Learning
+</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Java+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies;Open+Source+Contributor"/>
+
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 B.Tech Computer Science Graduate
+
+💻 Passionate about Software Development
+
+🌱 Currently learning
+
+- Spring Boot
+- React
+- Machine Learning
+- Data Structures & Algorithms
+- System Design
+
+🎯 Looking for Software Developer Opportunities
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,c,cpp"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🔍 Deep Packet Inspection
+
+Java-based network packet analyzer capable of inspecting packets, identifying protocols, and analyzing network traffic.
+
+**Tech Stack**
+
+- Java
+- Pcap4J
+- Maven
+- Wireshark
+
+---
+
+## 📊 Customer Churn Prediction
+
+Machine Learning model for predicting customer churn using multiple classification algorithms.
+
+**Tech Stack**
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+
+---
+
+## ❤️ Birthday Website
+
+Responsive birthday website with animations, music and personalized wishes.
+
+**Tech Stack**
+
+- React
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 🌐 Portfolio Website
+
+Modern responsive portfolio showcasing projects and skills.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hariskhan1613&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=hariskhan1613&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariskhan1613&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hariskhan1613&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hariskhan1613&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://github.com/hariskhan1613">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="YOUR_LINKEDIN">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=hariskhan1613&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> **"Great software isn't built in a day. It's built one commit at a time."**
+
+---
+
+<p align="center">
+
+⭐ If you like my projects, don't forget to star them!
+
+</p>
+⭐ Next, pin these repositories
+
+Your profile will look much stronger if you pin these (or similar) repositories:
+
+🔍 Deep Packet Inspection (Java)
+📊 Customer Churn Prediction
+❤️ Birthday Website
+🌐 Portfolio Website
+☕ Java DSA
+🚀 Spring Boot Project
+🔥 Add a Banner
+
+At the top of your profile, add a custom banner. It gives a much more polished look.
+
+Example style:
+
+Dark gradient background
+Name: Mohd Haris Khan
+Subtitle: Java • Full Stack • Machine Learning
+Small Java, Spring, React, Python, Git, Docker icons
+Clean blue/cyan theme
+I also recommend removing these sections
+
+They often don't add much value:
+
+❌ GitHub Trophies (sometimes fails to load)
+❌ Profile Views (optional)
+❌ Too many badges
+
+A cleaner profile usually looks more professional.
+
+Final polish
+
+Right now I'd rate your profile around 7.5/10. With:
+
+a custom banner,
+pinned repositories,
+a polished README like above,
+and a few strong projects,
+
+it can easily reach 9.5/10 from a recruiter's perspective.
+
+mai vs code copilot se pura md khud likhwa raha hu jo mujhe apna personal details dena ho wo likh ke do jo de du use like about me, education, tech stack, certifications, project details, contact from linked in github email
+
+Bilkul. Agar tum VS Code Copilot ya kisi AI se pura GitHub Profile README generate karwa rahe ho, to usko jitni detailed information doge, utna hi professional output milega.
+
+Neeche ek complete template diya hai. Bas apni details fill karke Copilot ko de dena.
+
+👤 Personal Information
+Full Name: Mohd Haris Khan
+
+GitHub Username: hariskhan1613
+
+Location: Noida, Uttar Pradesh, India
+
+Email: your_email@gmail.com
+
+LinkedIn: https://linkedin.com/in/your-linkedin-username
+
+Portfolio: https://your-portfolio.com (if available)
+
+Website: (optional)
+
+Current Status:
+Software Developer | Java Developer | Full Stack Developer | Machine Learning Enthusiast
+
+Professional Headline:
+Passionate Software Developer with strong interest in Java, Full Stack Development, Machine Learning, and Backend Systems. I enjoy building scalable applications, solving real-world problems, and continuously learning modern technologies.
+👨‍💻 About Me
+I am a Computer Science graduate passionate about software development and problem-solving.
+
+I enjoy building real-world applications using Java, Spring Boot, React, and Machine Learning technologies.
+
+My primary interests include:
+
+• Backend Development
+• Full Stack Web Development
+• Artificial Intelligence & Machine Learning
+• Data Structures & Algorithms
+• Computer Networks
+• System Design
+
+Currently, I am focused on improving my problem-solving skills, building impactful projects, and preparing for Software Development Engineer (SDE) roles.
+
+I believe in continuous learning and writing clean, maintainable, and efficient code.
+🎓 Education
+Degree:
+Bachelor of Technology (B.Tech)
+
+Branch:
+Computer Science and Engineering
+
+College:
+Noida Institute of Engineering and Technology (NIET)
+
+Location:
+Greater Noida, Uttar Pradesh
+
+Graduation Year:
+2026
+
+Relevant Coursework:
+
+• Data Structures & Algorithms
+• Operating Systems
+• Computer Networks
+• Database Management Systems
+• Object-Oriented Programming
+• Software Engineering
+• Machine Learning
+💻 Tech Stack
+Programming Languages
+Java
+Python
+JavaScript
+C
+C++
+SQL
+Frontend
+HTML5
+CSS3
+JavaScript
+React.js
+Tailwind CSS
+Bootstrap
+Backend
+Java
+Spring Boot
+Node.js
+Express.js
+REST APIs
+JWT Authentication
+Database
+MySQL
+
+MongoDB
+Machine Learning
+Python
+Pandas
+NumPy
+Scikit-Learn
+Matplotlib
+Seaborn
+Developer Tools
+Git
+
+GitHub
+
+VS Code
+
+IntelliJ IDEA
+
+Postman
+
+Docker
+
+Maven
+🚀 Featured Projects
+1. Deep Packet Inspection (Java)
+Description:
+
+Developed a Java-based Deep Packet Inspection (DPI) application capable of capturing and analyzing network packets in real time.
+
+Features:
+
+• Real-time packet capture
+• TCP/UDP/ICMP protocol detection
+• HTTP and DNS packet analysis
+• Packet filtering
+• PCAP file analysis
+• Network traffic monitoring
+• Protocol statistics
+• Header parsing
+
+Technologies:
+
+Java
+Pcap4J
+Maven
+Wireshark
+
+Skills Demonstrated:
+
+Computer Networks
+Java
+Packet Parsing
+Network Security
+Performance Optimization
+2. Customer Churn Prediction
+Description:
+
+Built a Machine Learning model to predict customer churn using supervised learning algorithms.
+
+Features:
+
+• Data Cleaning
+• Feature Engineering
+• Model Training
+• Model Evaluation
+• Prediction Dashboard
+• Performance Metrics
+
+Technologies:
+
+Python
+Pandas
+NumPy
+Scikit-Learn
+Matplotlib
+Seaborn
+
+Skills:
+
+Machine Learning
+Data Analysis
+Feature Engineering
+Model Evaluation
+3. Birthday Website
+Description:
+
+Designed and developed a responsive birthday celebration website featuring personalized wishes, music, animations, and interactive UI.
+
+Technologies:
+
+React
+HTML
+CSS
+JavaScript
+4. Portfolio Website
+Description:
+
+Personal portfolio website showcasing projects, technical skills, education, certifications, and contact information.
+
+Technologies:
+
+HTML
+CSS
+JavaScript
+React
+🏅 Certifications
+Example format:
+
+• Java Programming - Oracle (if applicable)
+
+• Python for Data Science
+
+• Machine Learning
+
+• SQL Fundamentals
+
+• Git & GitHub
+
+• Spring Boot
+
+• React.js
+
+• Data Structures and Algorithms
+
+• Problem Solving
+
+• Computer Networks
+
+• REST API Development
+🌱 Currently Learning
+Spring Boot
+
+Microservices
+
+React.js
+
+System Design
+
+Machine Learning
+
+Docker
+
+Kubernetes
+
+AWS Cloud
+
+Advanced DSA
+🎯 Career Objectives
+Seeking Software Development Engineer opportunities where I can contribute to building scalable software, solve challenging problems, and continue growing as a Full Stack and Backend Developer.
+
+
+📫 Contact Information-
+
+Email:
+mohdhariskhan15@gmail.com
+
+GitHub:
+https://github.com/hariskhan1613
+
+LinkedIn:
+https://www.linkedin.com/in/mohdhariskhan/
+
+Portfolio:
+https://my-portfolio-one-eta-82.vercel.app/
+
+LeetCode:
+https://leetcode.com/u/hariskhan01613/
+
+
+
+📈 GitHub Sections to Include-
+
+✔ Animated Typing Header
+
+✔ About Me
+
+✔ Education
+
+✔ Tech Stack
+
+✔ Skills
+
+✔ Featured Projects
+
+✔ GitHub Stats
+
+✔ Contribution Graph
+
+✔ Currently Learning
+
+✔ Certifications
+
+✔ Contact Information
+
+✔ Fun Facts (Optional)
+
+✔ Quote
+
+✔ Footer
+
+
+💬 Professional Quote-
+
+"Code with purpose. Learn with curiosity. Build with passion."
+
+OR
+
+"Every project is an opportunity to learn something new."
+
+OR
+
+"Turning ideas into scalable software, one commit at a time."
+
