@@ -6,11 +6,11 @@
 
 <br>
 
-<a href="mailto:your_email@gmail.com">
+<a href="mailto:mohdhariskhan15@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/mohdhariskhan/)">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -186,15 +186,15 @@ A modern personal portfolio showcasing projects, technical skills, certification
 
 # 📫 Connect With Me
 
-<p align="center">
+<p>
 
-<a href="mailto:your_email@gmail.com">
+<a href="mailto:mohdhariskhan15@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 &nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/mohdhariskhan/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
