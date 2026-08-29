@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,100:2563EB&height=220&section=header&text=Mohd%20Haris%20Khan&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20•%20Java%20•%20Full%20Stack%20•%20Machine%20Learning&descAlignY=58&descSize=18"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=60A5FA&center=true&vCenter=true&width=850&lines=Java+Developer;Full+Stack+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,100:2563EB&height=220&section=header&text=Mohd%20Haris%20Khan&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20%7C%20MERN%20%7C%20DSA&descAlignY=58&descSize=18"/>
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=60A5FA&center=true&vCenter=true&width=850&lines=Software+Engineer;Java+Developer;MERN+Stack+Developer;Problem+Solver;Building+and+Learning+Every+Day"/>
+
+<br><br>
 
 <a href="mailto:mohdhariskhan15@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -24,15 +26,20 @@
 
 # 👋 About Me
 
-I'm a Software Developer passionate about building scalable applications using **Java**, **Spring Boot**, **React**, and **Machine Learning**.
+I'm a Computer Science Engineering graduate focused on building practical software and strengthening my foundation in **Java, MERN stack, DSA, and SQL**.
 
-I enjoy solving real-world problems, writing clean and maintainable code, and continuously improving my skills in backend development, distributed systems, and modern software engineering.
+I enjoy turning ideas into working applications, understanding how systems work behind the scenes, and solving problems through clean and structured code.
 
-- 💻 Java Developer
-- 🌱 Learning Spring Boot, Microservices & AWS
-- 🧠 Practicing Data Structures & Algorithms
-- 🚀 Interested in Backend Engineering & AI/ML
-- 🎯 Seeking Software Development Engineer opportunities
+Currently, I'm focused on improving my backend development skills with **Node.js, Express.js, RESTful APIs, authentication, database integration, and API design** while continuing to practice Data Structures and Algorithms.
+
+- 💻 Focused on Software Engineering & Full Stack Development
+- ☕ Strong interest in Java and problem solving
+- 🌐 Building applications with the MERN stack
+- 🧠 Consistently practicing Data Structures & Algorithms
+- 🗄️ Working with SQL and database-driven applications
+- 🔧 Improving backend development with Node.js & Express.js
+- 🤖 Exploring Machine Learning and AI concepts
+- 🚀 Interested in building reliable, useful software
 
 ---
 
@@ -48,49 +55,86 @@ Graduation: **2026**
 
 ---
 
-# 💻 Tech Stack
+# 💻 Skills
 
-### Languages
+### Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,sql"/>
+<img src="https://skillicons.dev/icons?i=java,js,python,sql"/>
 </p>
 
-### Frontend
+### MERN Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/>
 </p>
 
-### Backend
+### Core
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql"/>
+
+`Data Structures & Algorithms`  
+`Object-Oriented Programming`  
+`RESTful APIs`  
+`Database Fundamentals`  
+`Problem Solving`
+
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,postman,maven"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
+## 📋 Job Application Tracker
+
+A full-stack job application management platform built to help users organize their job search and keep track of application progress.
+
+### Features
+
+- 🔐 User authentication
+- 📝 Create and manage job applications
+- ✏️ Edit application details
+- 🗑️ Delete applications
+- 🔎 Search applications
+- 🔽 Filter and sort applications
+- 📊 Application statistics
+- 🎯 Interview and offer tracking
+- ⚠️ Follow-up reminders
+- 📱 Responsive interface
+
+### Tech Stack
+
+`MongoDB` `Express.js` `React` `Node.js` `REST API` `JavaScript`
+
+### Links
+
+**Live :**  
+https://job-application-tracker-one-zeta.vercel.app/
+
+**Source Code:**  
+https://github.com/hariskhan1613/job-application-tracker
+
+---
+
 ## 🔍 Deep Packet Inspection
 
-Java-based network traffic analyzer capable of capturing, filtering, and inspecting packets in real time.
+A Java-based network traffic analyzer designed to capture, filter, and inspect network packets in real time.
 
-**Highlights**
+### Highlights
 
-- Real-time Packet Capture
-- TCP / UDP / ICMP Analysis
-- HTTP & DNS Inspection
-- PCAP File Support
-- Traffic Statistics
+- Real-time packet capture
+- TCP / UDP / ICMP analysis
+- HTTP & DNS inspection
+- PCAP file support
+- Network traffic statistics
 
-**Tech Stack**
+### Tech Stack
 
 `Java` `Pcap4J` `Maven` `Wireshark`
 
@@ -98,17 +142,17 @@ Java-based network traffic analyzer capable of capturing, filtering, and inspect
 
 ## 📊 Customer Churn Prediction
 
-Machine Learning model for predicting customer churn using supervised learning algorithms.
+A Machine Learning project focused on predicting customer churn using supervised learning techniques.
 
-**Highlights**
+### Highlights
 
-- Data Cleaning
-- Feature Engineering
-- Model Training
-- Prediction Dashboard
-- Performance Evaluation
+- Data cleaning
+- Feature engineering
+- Model training
+- Prediction dashboard
+- Model performance evaluation
 
-**Tech Stack**
+### Tech Stack
 
 `Python` `Pandas` `NumPy` `Scikit-Learn`
 
@@ -116,11 +160,11 @@ Machine Learning model for predicting customer churn using supervised learning a
 
 ## 🌐 Portfolio Website
 
-A modern personal portfolio showcasing projects, technical skills, certifications, and contact information.
+A personal portfolio website built to showcase my projects, skills, and development journey.
 
-**Tech Stack**
+### Tech Stack
 
-`React` `HTML` `CSS` `JavaScript`
+`React` `JavaScript` `HTML` `CSS`
 
 ---
 
@@ -135,82 +179,89 @@ A modern personal portfolio showcasing projects, technical skills, certification
 
 # 📚 Currently Learning
 
-- Spring Boot
-- Microservices
-- Docker
-- Kubernetes
-- AWS
+### Backend Development
+
+- Node.js
+- Express.js
+- RESTful API Development
+- Authentication & Authorization
+- API Design
+- Database Integration
+- Backend Architecture
+
+### Problem Solving
+
+- Data Structures & Algorithms
+- Advanced Problem Solving
+- Algorithmic Thinking
+
+### Exploring
+
 - Machine Learning
-- System Design
-- Advanced DSA
+- Artificial Intelligence
+- Software Engineering Practices
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hariskhan1613&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=hariskhan1613&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=hariskhan1613&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://streak-stats.demolab.com?user=hariskhan1613&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<br>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariskhan1613&layout=compact&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-</p>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariskhan1613&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hariskhan1613&theme=tokyo-night&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 🏆 Achievements
+# 🏆 Highlights
 
-- 🚀 Built multiple real-world software projects
-- 💻 Strong foundation in Java & OOP
-- 🌐 Experience with Full Stack Development
-- 🤖 Hands-on Machine Learning projects
-- 📡 Knowledge of Computer Networks & Deep Packet Inspection
+- 🚀 Built multiple practical software projects
+- 💻 Strong foundation in Java and Object-Oriented Programming
+- 🌐 Hands-on experience building MERN applications
+- 🧠 Regularly practicing Data Structures & Algorithms
+- 🗄️ Working with SQL and databases
+- 🤖 Exploring Machine Learning and AI
+- 🔧 Continuously improving backend development skills
 
 ---
 
 # 📫 Connect With Me
 
-<p>
+<div align="center">
 
 <a href="mailto:mohdhariskhan15@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/mohdhariskhan/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="https://github.com/hariskhan1613">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-> **"Code with purpose. Learn with curiosity. Build with passion."**
+<br>
+
+> **"Build with purpose. Solve with logic. Keep learning."**
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0B1120&height=120&section=footer"/>
 
