@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,100:2563EB&height=220&section=header&text=Mohd%20Haris%20Khan&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20%7C%20MERN%20%7C%20DSA&descAlignY=58&descSize=18"/>
 
-<br>
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=60A5FA&center=true&vCenter=true&width=850&lines=Software+Engineer;Java+Developer;MERN+Stack+Developer;Problem+Solver;Building+and+Learning+Every+Day"/>
 
 <br><br>
@@ -26,20 +24,22 @@
 
 # 👋 About Me
 
-I'm a Computer Science Engineering graduate focused on building practical software and strengthening my foundation in **Java, MERN stack, DSA, and SQL**.
+I'm a Computer Science Engineering graduate focused on building practical software and developing a strong foundation in **Software Engineering, Java, MERN Stack, Data Structures & Algorithms, and SQL**.
 
-I enjoy turning ideas into working applications, understanding how systems work behind the scenes, and solving problems through clean and structured code.
+I enjoy building applications that solve real problems, understanding how different parts of a system work together, and improving my code through consistent practice and hands-on projects.
 
-Currently, I'm focused on improving my backend development skills with **Node.js, Express.js, RESTful APIs, authentication, database integration, and API design** while continuing to practice Data Structures and Algorithms.
+Currently, I'm strengthening my backend development skills with **Node.js, Express.js, RESTful APIs, authentication, database integration, and API design** while continuing to improve my problem-solving skills through Data Structures and Algorithms.
+
+I'm also exploring **Artificial Intelligence and Machine Learning** to understand how intelligent systems can be applied to real-world software.
 
 - 💻 Focused on Software Engineering & Full Stack Development
-- ☕ Strong interest in Java and problem solving
+- ☕ Working with Java and Object-Oriented Programming
 - 🌐 Building applications with the MERN stack
-- 🧠 Consistently practicing Data Structures & Algorithms
-- 🗄️ Working with SQL and database-driven applications
+- 🧠 Practicing Data Structures & Algorithms
+- 🗄️ Working with SQL and databases
 - 🔧 Improving backend development with Node.js & Express.js
-- 🤖 Exploring Machine Learning and AI concepts
-- 🚀 Interested in building reliable, useful software
+- 🤖 Learning and exploring AI/ML concepts
+- 🚀 Interested in building practical and reliable software
 
 ---
 
@@ -57,7 +57,7 @@ Graduation: **2026**
 
 # 💻 Skills
 
-### Programming
+### Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,js,python,sql"/>
@@ -69,17 +69,13 @@ Graduation: **2026**
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/>
 </p>
 
-### Core
-
-<p>
+### Core Skills
 
 `Data Structures & Algorithms`  
 `Object-Oriented Programming`  
 `RESTful APIs`  
 `Database Fundamentals`  
 `Problem Solving`
-
-</p>
 
 ### Tools
 
@@ -93,12 +89,12 @@ Graduation: **2026**
 
 ## 📋 Job Application Tracker
 
-A full-stack job application management platform built to help users organize their job search and keep track of application progress.
+A full-stack web application designed to help users organize their job search and keep track of application progress in one place.
 
 ### Features
 
 - 🔐 User authentication
-- 📝 Create and manage job applications
+- 📝 Create job applications
 - ✏️ Edit application details
 - 🗑️ Delete applications
 - 🔎 Search applications
@@ -106,18 +102,18 @@ A full-stack job application management platform built to help users organize th
 - 📊 Application statistics
 - 🎯 Interview and offer tracking
 - ⚠️ Follow-up reminders
-- 📱 Responsive interface
+- 📱 Responsive user interface
 
 ### Tech Stack
 
-`MongoDB` `Express.js` `React` `Node.js` `REST API` `JavaScript`
+`MongoDB` `Express.js` `React` `Node.js` `JavaScript` `REST API`
 
 ### Links
 
-**Live :**  
-https://job-application-tracker-one-zeta.vercel.app/
+🔗 **Live Demo:**  
+https://job-application-tracker-r5ft.onrender.com
 
-**Source Code:**  
+🔗 **Source Code:**  
 https://github.com/hariskhan1613/job-application-tracker
 
 ---
@@ -195,11 +191,11 @@ A personal portfolio website built to showcase my projects, skills, and developm
 - Advanced Problem Solving
 - Algorithmic Thinking
 
-### Exploring
+### Exploring AI / ML
 
-- Machine Learning
-- Artificial Intelligence
-- Software Engineering Practices
+- Machine Learning fundamentals
+- Artificial Intelligence concepts
+- Applying ML to practical problems
 
 ---
 
@@ -207,7 +203,7 @@ A personal portfolio website built to showcase my projects, skills, and developm
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=hariskhan1613&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats-pearl-omega.vercel.app/api?username=hariskhan1613&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
 
 <img height="180" src="https://streak-stats.demolab.com?user=hariskhan1613&theme=tokyonight&hide_border=true"/>
 
@@ -217,7 +213,7 @@ A personal portfolio website built to showcase my projects, skills, and developm
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariskhan1613&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
+<img height="180" src="https://github-readme-stats-pearl-omega.vercel.app/api/top-langs/?username=hariskhan1613&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"/>
 
 </div>
 
@@ -225,13 +221,14 @@ A personal portfolio website built to showcase my projects, skills, and developm
 
 # 🏆 Highlights
 
-- 🚀 Built multiple practical software projects
+- 🚀 Built practical real-world software projects
 - 💻 Strong foundation in Java and Object-Oriented Programming
 - 🌐 Hands-on experience building MERN applications
-- 🧠 Regularly practicing Data Structures & Algorithms
+- 🧠 Consistently practicing Data Structures & Algorithms
 - 🗄️ Working with SQL and databases
-- 🤖 Exploring Machine Learning and AI
-- 🔧 Continuously improving backend development skills
+- 🔧 Improving backend development with Node.js and Express.js
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 📡 Built a Java-based Deep Packet Inspection project
 
 ---
 
