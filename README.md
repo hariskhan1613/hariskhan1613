@@ -1,205 +1,129 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,100:2563EB&height=220&section=header&text=Mohd%20Haris%20Khan&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Java%20%7C%20MERN%20%7C%20DSA&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,100:2563EB&height=220&section=header&text=Mohd%20Haris%20Khan&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20MERN%20%7C%20Java&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=60A5FA&center=true&vCenter=true&width=850&lines=Software+Engineer;Java+Developer;MERN+Stack+Developer;Problem+Solver;Building+and+Learning+Every+Day"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=60A5FA&center=true&vCenter=true&width=850&lines=Software+Engineer;Full-Stack+Developer+%7C+MERN;Java+%2B+Data+Structures;Currently+building+ErrorLens"/>
 
 <br><br>
 
-<a href="mailto:mohdhariskhan15@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="mailto:mohdhariskhan15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohdhariskhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/hariskhan01613/"><img src="https://img.shields.io/badge/LeetCode-100%2B%20solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://my-portfolio-one-eta-82.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-<a href="https://www.linkedin.com/in/mohdhariskhan/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br><br>
 
-<a href="https://github.com/hariskhan1613">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/Open%20to%20Work-Software%20Engineer%20%7C%20Full--Stack%20%7C%20Java-16A34A?style=flat-square"/>
 
 </div>
 
 ---
 
-# 👋 About Me
+## 👋 About Me
 
-I'm a Computer Science Engineering graduate focused on building practical software and developing a strong foundation in **Software Engineering, Java, MERN Stack, Data Structures & Algorithms, and SQL**.
+B.Tech Computer Science graduate (2026) from NIET, Greater Noida. I build full-stack web applications with the **MERN stack** and solve data structures and algorithms problems in **Java** (100+ LeetCode problems so far).
 
-I enjoy building applications that solve real problems, understanding how different parts of a system work together, and improving my code through consistent practice and hands-on projects.
+I built and deployed the **Job Application Tracker** (below) end to end, and I'm now working on **ErrorLens**, a bigger project to deepen my backend skills: APIs, testing, Docker and LLM integration.
 
-Currently, I'm strengthening my backend development skills with **Node.js, Express.js, RESTful APIs, authentication, database integration, and API design** while continuing to improve my problem-solving skills through Data Structures and Algorithms.
-
-I'm also exploring **Artificial Intelligence and Machine Learning** to understand how intelligent systems can be applied to real-world software.
-
-- 💻 Focused on Software Engineering & Full Stack Development
-- ☕ Working with Java and Object-Oriented Programming
-- 🌐 Building applications with the MERN stack
-- 🧠 Practicing Data Structures & Algorithms
-- 🗄️ Working with SQL and databases
-- 🔧 Improving backend development with Node.js & Express.js
-- 🤖 Learning and exploring AI/ML concepts
-- 🚀 Interested in building practical and reliable software
+I'm looking for a **Software Engineer / Associate Software Engineer / Full-Stack Developer** role where I can ship features, learn from code reviews and grow quickly.
 
 ---
 
-# 🎓 Education
+## 🛠️ Tech Stack
 
-**Bachelor of Technology (B.Tech)**  
-Computer Science & Engineering
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-Basics-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-**Noida Institute of Engineering and Technology (NIET)**  
-📍 Greater Noida, Uttar Pradesh
+**Frontend**
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
-Graduation: **2026**
+**Backend & Database**
+<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
----
+**Tools**
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-# 💻 Skills
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,python,sql"/>
-</p>
-
-### MERN Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs"/>
-</p>
-
-### Core Skills
-
-`Data Structures & Algorithms`  
-`Object-Oriented Programming`  
-`RESTful APIs`  
-`Database Fundamentals`  
-`Problem Solving`
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-</p>
+**Core concepts:** Data Structures & Algorithms · Object-Oriented Programming · REST APIs · JWT Authentication · DBMS
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Projects
 
-## 📋 Job Application Tracker
+### 📋 Job Application Tracker
+A full-stack app to track job applications by company, role, status and follow-up date, with each user's data kept private.
 
-A full-stack web application designed to help users organize their job search and keep track of application progress in one place.
+- 🔐 JWT authentication and protected routes (users only see their own data)
+- ✅ Input validation and error handling on the REST API endpoints
+- 🔄 Create, update, filter, sort and delete applications
+- 📊 Status views: Applied, Interview, Offer, Rejected
+- 📱 Responsive dashboard
+- ☁️ Deployed live with MongoDB Atlas
 
-### Features
+**Tech:** `React` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT`
 
-- 🔐 User authentication
-- 📝 Create job applications
-- ✏️ Edit application details
-- 🗑️ Delete applications
-- 🔎 Search applications
-- 🔽 Filter and sort applications
-- 📊 Application statistics
-- 🎯 Interview and offer tracking
-- ⚠️ Follow-up reminders
-- 📱 Responsive user interface
-
-### Tech Stack
-
-`MongoDB` `Express.js` `React` `Node.js` `JavaScript` `REST API`
-
-### Links
-
-🔗 **Live Demo:**  
-https://job-application-tracker-r5ft.onrender.com
-
-🔗 **Source Code:**  
-https://github.com/hariskhan1613/job-application-tracker
+🔗 [**Live Demo**](https://job-application-tracker-r5ft.onrender.com) (first load may take a moment if the server is asleep) · 💻 [**Source Code**](https://github.com/hariskhan1613/job-application-tracker)
 
 ---
 
-## 🔍 Deep Packet Inspection
+### 🔍 ErrorLens: AI-Assisted Error Monitoring for Node.js Apps
+![Status](https://img.shields.io/badge/Status-In%20Progress-F59E0B?style=flat-square)
 
-A Java-based network traffic analyzer designed to capture, filter, and inspect network packets in real time.
+A mini error-monitoring tool: a small SDK captures errors from a Node.js app, an API groups duplicate errors into issues, and an LLM suggests a likely cause and fix. I'm building it from scratch to learn backend engineering properly, and I plan to run it on my own Job Application Tracker.
 
-### Highlights
+**Planned architecture**
 
-- Real-time packet capture
-- TCP / UDP / ICMP analysis
-- HTTP & DNS inspection
-- PCAP file support
-- Network traffic statistics
+```mermaid
+flowchart LR
+  A[Node app + ErrorLens SDK] -->|batched events| B[Ingestion API]
+  B --> C[Fingerprint and group errors]
+  C --> D[(MongoDB)]
+  C --> E[LLM triage]
+  D --> F[React dashboard]
+  E --> F
+```
 
-### Tech Stack
+**What I'm building**
+- [ ] Ingestion API with API-key auth and request validation
+- [ ] Error fingerprinting and grouping
+- [ ] npm SDK with batching and retry
+- [ ] React dashboard with issue list and charts
+- [ ] LLM-based triage with caching and validation
+- [ ] Tests, Docker and CI
 
-`Java` `Pcap4J` `Maven` `Wireshark`
+**Planned stack:** `Node.js` `Express.js` `TypeScript` `MongoDB` `React` `Jest`
 
----
-
-## 📊 Customer Churn Prediction
-
-A Machine Learning project focused on predicting customer churn using supervised learning techniques.
-
-### Highlights
-
-- Data cleaning
-- Feature engineering
-- Model training
-- Prediction dashboard
-- Model performance evaluation
-
-### Tech Stack
-
-`Python` `Pandas` `NumPy` `Scikit-Learn`
+💻 Source code: coming soon (will be linked here once the first milestone is pushed)
 
 ---
 
-## 🌐 Portfolio Website
+## 📚 Currently Learning
 
-A personal portfolio website built to showcase my projects, skills, and development journey.
-
-### Tech Stack
-
-`React` `JavaScript` `HTML` `CSS`
-
----
-
-# 🏅 Certifications
-
-- Python for Data Science, AI & Development
-- Introduction to Artificial Intelligence
-- Introduction to Python
-- Java Programming: Arrays, Lists & Structured Data
+| Area | Focus |
+|---|---|
+| ⚙️ Backend | TypeScript, API design, validation, authentication |
+| 🧪 Quality | Testing with Jest and Supertest |
+| 🐳 DevOps | Docker, GitHub Actions |
+| 🗄️ Databases | MongoDB indexing and aggregation |
+| 🤖 AI | Integrating LLM APIs into applications |
+| 🧠 Problem solving | Data structures and algorithms in Java |
 
 ---
 
-# 📚 Currently Learning
-
-### Backend Development
-
-- Node.js
-- Express.js
-- RESTful API Development
-- Authentication & Authorization
-- API Design
-- Database Integration
-- Backend Architecture
-
-### Problem Solving
-
-- Data Structures & Algorithms
-- Advanced Problem Solving
-- Algorithmic Thinking
-
-### Exploring AI / ML
-
-- Machine Learning fundamentals
-- Artificial Intelligence concepts
-- Applying ML to practical problems
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -219,46 +143,33 @@ A personal portfolio website built to showcase my projects, skills, and developm
 
 ---
 
-# 🏆 Highlights
+## 🏅 Certifications
 
-- 🚀 Built practical real-world software projects
-- 💻 Strong foundation in Java and Object-Oriented Programming
-- 🌐 Hands-on experience building MERN applications
-- 🧠 Consistently practicing Data Structures & Algorithms
-- 🗄️ Working with SQL and databases
-- 🔧 Improving backend development with Node.js and Express.js
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 📡 Built a Java-based Deep Packet Inspection project
+- Object-Oriented Programming in Java (Coursera)
+- Java Programming: Arrays, Lists, and Structured Data (Coursera)
+- Database Management Systems (Infosys Springboard)
+- Python for Data Science, AI & Development (IBM / Coursera)
 
 ---
 
-# 📫 Connect With Me
+## 🎓 Education
 
-<div align="center">
-
-<a href="mailto:mohdhariskhan15@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mohdhariskhan/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/hariskhan1613">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+**B.Tech in Computer Science and Engineering**
+Noida Institute of Engineering and Technology (NIET), Greater Noida · 2022 – 2026
 
 ---
 
+## 📫 Let's Connect
+
 <div align="center">
 
+<a href="mailto:mohdhariskhan15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohdhariskhan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/hariskhan01613/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+
 <br>
 
-> **"Build with purpose. Solve with logic. Keep learning."**
-
-<br>
+> *Build with purpose. Solve with logic. Keep learning.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0B1120&height=120&section=footer"/>
 
