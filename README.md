@@ -75,7 +75,7 @@ A full-stack app to track job applications by company, role, status and follow-u
 
 **Tech:** `React` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT`
 
-🔗 [**Live Demo**](https://job-application-tracker-r5ft.onrender.com) (first load may take a moment if the server is asleep) · 💻 [**Source Code**](https://github.com/hariskhan1613/job-application-tracker)
+🔗 [**Live Demo**](https://job-application-tracker-one-zeta.vercel.app/) (first load may take a moment if the server is asleep) · 💻 [**Source Code**](https://github.com/hariskhan1613/job-application-tracker)
 
 ---
 
